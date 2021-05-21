@@ -4,7 +4,7 @@
 
 This package is a viewer to help you better understanding the lapses in the [Farming Strategy Planner](https://penguin-stats.io/).
 
-## Usage
+## Usage \(Browser console\)
 
 1. Open [Farming Strategy Planner](https://penguin-stats.io/planner) and show Calculation Result.
 1. Run `console/crawl.js` in the Farming Strategy Planner console.
